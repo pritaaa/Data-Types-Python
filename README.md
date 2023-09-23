@@ -57,14 +57,8 @@ You can evaluate any expression in Python, and get one of two answers, True or F
 •	Dictionary items are presented in key:value pairs, and can be referred to by using the key name.
 •	Dictionaries are written with curly brackets { }, and have keys and values
 
-###Length
+### Length
 len() : To determine how many items a set has, use the len() function.
 
-
-
-
-
-
-
-- 📫 How to reach me: ...
+- 📫 How to reach me: www.linkedin.com/in/pritaayu10
 
