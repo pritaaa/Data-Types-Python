@@ -33,7 +33,7 @@ You can evaluate any expression in Python, and get one of two answers, True or F
 - Tuple items are ordered, unchangeable, and allow duplicate values.
 - Tuples are written with round brackets( ).
 - Tuple items are indexed, Index start from [0].
-- Lists can contain members of the same or different types
+
 
   ### Tuple Methods
 - count() : Returns the number of times a specified value occurs in a tuple.
