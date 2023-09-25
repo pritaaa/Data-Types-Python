@@ -60,5 +60,28 @@ You can evaluate any expression in Python, and get one of two answers, True or F
 ### Length
 len() : To determine how many items a set has, use the len() function.
 
+# Python Conditions and If Else Statements
+Python has usual logic conditions from math : 
+- Equals: a == b
+- Not Equals: a != b
+- Less than: a < b
+- Less than or equal to: a <= b
+- Greater than: a > b
+- Greater than or equal to: a >= b
+
+An "if statement" is written by using the if keyword.
+
+## Elif
+The elif keyword is Python's way of saying "if the previous conditions were not true, then try this condition".
+
+## Else
+The else keyword catches anything which isn't caught by the preceding conditions.
+
+# For Loop
+This is less like the for keyword in other programming languages, and works more like an iterator method as found in other object-orientated programming languages.
+With the for loop we can execute a set of statements, once for each item in a list, tuple, set etc.
+
+The for loop does not require an indexing variable to set beforehand.
+
 - 📫 How to reach me: www.linkedin.com/in/pritaayu10
 
